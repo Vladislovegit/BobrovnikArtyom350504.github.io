@@ -1417,9 +1417,7 @@ body > header {
   text-align: center; }
   @media (min-width: 1280px) {
     .copyright {
-      position: absolute;
-      left: 0;
-      bottom: 50px;
+     padding-top: 50px;
       width: 100%; } }
   .copyright .social {
     padding-top: 20px; }
