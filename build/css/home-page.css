@@ -1506,6 +1506,7 @@ body > header {
   .copyright .social {
     padding-bottom: 20px; }
     .copyright .social a {
+      color: inherit;
       display: inline-block; }
       .copyright .social a span {
         font-size: 2em;
