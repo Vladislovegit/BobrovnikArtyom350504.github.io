@@ -1264,6 +1264,7 @@ body > .overlay {
       padding: 20px 0;
       text-align: center;
       color: white;
+      text-transform: none;
       white-space: nowrap;
       border-radius: 0 !important;
       border: 0 !important; }
